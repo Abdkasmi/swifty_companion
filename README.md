@@ -11,4 +11,14 @@ You can also navigate back to the first view from the second view.
 
 First of all you must have Flutter and XCode or Android Studio installed on your system (if not you can refer to `https://docs.flutter.dev/get-started/install`). When your environment is ready go on your intra and generate an api key following 42api documentatiom. You can now create an .env file at the root following the .env.exemple file present. When you are done with this just run `flutter run` at the root and enjoy the app.
 
+## How it looks like
+
+![screenshot](docs/Swifty1.png)
+
+![screenshot](docs/Swifty2.png)
+
+![screenshot](docs/Swifty3.png)
+
+![screenshot](docs/Swifty4.png)
+
 
