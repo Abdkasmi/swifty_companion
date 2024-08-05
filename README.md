@@ -13,7 +13,9 @@ First of all you must have Flutter and XCode or Android Studio installed on your
 
 ## How it looks like
 
-![screenshot](docs/Swifty1.png)     ![screenshot](docs/Swifty2.png)
-![screenshot](docs/Swifty3.png)     ![screenshot](docs/Swifty4.png)
+![screenshot](docs/Swifty1.png)
+![screenshot](docs/Swifty2.png)
+![screenshot](docs/Swifty3.png)     
+![screenshot](docs/Swifty4.png)
 
 
