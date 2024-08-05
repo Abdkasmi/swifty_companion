@@ -13,7 +13,7 @@ First of all you must have Flutter and XCode or Android Studio installed on your
 
 ## How it looks like
 
-![screenshot](docs/output-onlinepngtools.png)
+![screenshot](docs/Swifty1.png)
 
 ![screenshot](docs/Swifty2.png)
 
